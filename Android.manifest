@@ -3,16 +3,16 @@ CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: content1
-      Hash: fba9ab2927c1fa23383aa1075226793f
-      CRC: 3775313404
+      Hash: 0a90110684e615019974bc57fdab1dfd
+      CRC: 228434803
       Dependencies: {}
     Info_1:
       Name: content2
-      Hash: 1b8fd80d15299c5dc49e74f650893e8c
-      CRC: 1300994776
+      Hash: ec63120b16515a3f82306bb0ec48829a
+      CRC: 158724539
       Dependencies: {}
     Info_2:
       Name: content 3
-      Hash: 98a1611f32699e8a55c09fe2a7ad78da
-      CRC: 2180329271
+      Hash: 72364df11dc022d555980bd470262552
+      CRC: 4133642867
       Dependencies: {}
