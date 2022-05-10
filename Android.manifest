@@ -1,0 +1,18 @@
+ManifestFileVersion: 1
+CompatibilityAssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: content
+      Hash: f75e73e4648780fd82e19b00d5fb2bfe
+      CRC: 3323375428
+      Dependencies: {}
+    Info_1:
+      Name: content (1)
+      Hash: 335f18fe7d47433b8eb0add956bec2e1
+      CRC: 475818424
+      Dependencies: {}
+    Info_2:
+      Name: content 3
+      Hash: 74e1a53296f1c81ef064f792eb4ebadd
+      CRC: 632006080
+      Dependencies: {}
